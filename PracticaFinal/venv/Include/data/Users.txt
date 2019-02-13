@@ -1,0 +1,4 @@
+id:1|Nombre:Pepe|Apellidos:MuyMal fera|Direccion:calle de los volados|tel:123456789
+id:2|Nombre:Eustaquio|Apellidos:Salaxa Mareina|Direccion:Avenida Ranfhaki|tel:123456789
+id:3|Nombre:Pollito|Apellidos:de los fritos|Direccion:en mi casa|tel:987654321
+id:4|Nombre:Xahan|Apellidos:Lerw Jaguavk|Direccion:Hogar de los hogares|tel:123456789

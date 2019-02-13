@@ -1,0 +1,2 @@
+Nombre:Tortilla|Ingredientes:cebolla, patatas, huevos|Alergenos:huevos|Raciones:20|Precio:20
+Nombre:Arroz con leche|Ingredientes:leche, arroz, ramas de canela, cascara de limon|Alergenos:lacteos, canela, citricos|Raciones:5000|Precio:8
